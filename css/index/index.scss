@@ -4,7 +4,7 @@
     height: 60px;
     line-height: 60px;
     overflow: hidden;
-    background: #23262E;
+    background: #20222A;
     .logo {
         float: left;
         height: 60px;
@@ -24,10 +24,18 @@
             -ms-border-radius: 20px;
             -o-border-radius: 20px;
         }
-        h2{
+        h2 {
             color: #fff;
-            margin-left: 20px; 
+            margin-left: 20px;
             float: right;
         }
+    }
+    .left-nav {
+        width: 220px;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 60px;
+        background: #20222A;
     }
 }
