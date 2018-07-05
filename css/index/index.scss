@@ -30,12 +30,22 @@
             float: right;
         }
     }
-    .left-nav {
-        width: 220px;
-        height: 100%;
-        position: absolute;
-        left: 0;
+    .layui-side {
         top: 60px;
-        background: #20222A;
+        background: #393d49;
+        width: 220px !important;
+        .layui-side-scroll {
+            width: 240px;
+            li {
+                width: 220px;
+            }
+        }
+    }
+    .layui-body {
+        top: 60px;
+        left: 220px;
+    }
+    .layui-breadcrumb {
+        padding-left: 20px;
     }
 }
