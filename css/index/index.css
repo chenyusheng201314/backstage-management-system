@@ -1,12 +1,10 @@
 .index-top {
-    width: 100%;
-    height: 60px;
-    line-height: 60px;
-    overflow: hidden;
-    background: #23262E;
-}
-
-.index-top .logo {
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  overflow: hidden;
+  background: #23262E; }
+  .index-top .logo {
     float: left;
     height: 60px;
     line-height: 60px;
@@ -15,23 +13,18 @@
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -o-box-sizing: border-box;
-    padding: 0 40px;
-}
-
-.index-top .logo img {
-    width: 40px;
-    height: 40px;
-    border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
-}
-
-.index-top .logo h2 {
-    color: #fff;
-    margin-left: 20px;
-    float: right;
-}
+    padding: 0 40px; }
+    .index-top .logo img {
+      width: 40px;
+      height: 40px;
+      border-radius: 20px;
+      -webkit-border-radius: 20px;
+      -moz-border-radius: 20px;
+      -ms-border-radius: 20px;
+      -o-border-radius: 20px; }
+    .index-top .logo h2 {
+      color: #fff;
+      margin-left: 20px;
+      float: right; }
 
 /*# sourceMappingURL=index.css.map */
